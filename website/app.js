@@ -1,7 +1,7 @@
 /* Global Variables */
 // example zip 94040
 const baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip='
-const apikey = ',us&units=metric&appid=05393c9af4541188a3a52f9c3d1277cd'
+const apikey = ',us&units=metric&appid=XXX'
 
 document.getElementById('generate').addEventListener('click', performAction);
 
